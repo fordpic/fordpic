@@ -5,8 +5,13 @@ I am a fullstack software engineer, primarily interested in blockchain & music t
 📫 How to reach me ...
 fordpickert@gmail.com
 
-or follow my tech Twitter account ...
+or follow my Twitter account ...
 <a href=https://twitter.com/ford_codes>@ford_codes</a>
+
+### 100DaysOfCode
+
+If you'd like to check in on my progress with the #100DayOfCode challenge, please check out this repo:
+https://github.com/fordpic/code-everyday
 
 ### Languages and Tools:
 
