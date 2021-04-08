@@ -1,16 +1,12 @@
-- 👋 Hi, I’m @fordpic aka Ford Pickert
+What's up guys, my name is Ford :v:
 
-- 👀 I’m interested in blockchain, music tech
+I am a fullstack software engineer, primarily interested in blockchain & music tech startups; however I'm also open to any & all unique ideas that could make the world a better place :earth_americas:
 
-- 🌱 I’m currently learning everything !!
-
-- 💞️ I’m looking to collaborate on everything DeFi, Blockchain, Music!
-
-- 📫 How to reach me ...
+📫 How to reach me ...
 fordpickert@gmail.com
 
 or follow my tech Twitter account ...
-@ford_codes
+<a href=https://twitter.com/ford_codes>@ford_codes</a>
 
 ### Languages and Tools:
 
