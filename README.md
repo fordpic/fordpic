@@ -10,8 +10,11 @@ or follow my Twitter account ...
 
 ### 100DaysOfCode
 
-If you'd like to check in on my progress with the #100DayOfCode challenge, please check out this repo:
-https://github.com/fordpic/code-everyday
+If you'd like to check in on my progress with the #100DayOfCode challenge, please check out the pinned code-everyday repo below!
+
+### Projects
+
+I have several smaller projects pinned below in varying languages that I have used as opportunities to improve my craft as I progress - please feel free to check them out & leave feedback!
 
 ### Languages and Tools:
 
