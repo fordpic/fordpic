@@ -16,6 +16,8 @@ If you'd like to check in on my progress with the #100DayOfCode challenge, pleas
 
 I have several smaller projects pinned below in varying languages that I have used as opportunities to improve my craft as I progress - please feel free to check them out & leave feedback!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fordp&layout=compact&theme=onedark)](https://github.com/fordp/github-readme-stats)
+
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
