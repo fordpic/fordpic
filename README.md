@@ -34,8 +34,7 @@ I have several smaller projects pinned below in varying languages that I have us
 
 <br />
 <br />
+<br />
 
 [![fordpic's GitHub stats](https://github-readme-stats.vercel.app/api?username=fordpic&show_icons=true&theme=onedark)](https://github.com/fordpic/github-readme-stats)
 
-<br />
-<br />
