@@ -2,11 +2,13 @@ What's up guys, my name is Ford :v:
 
 I am a fullstack software engineer, primarily interested in blockchain & music tech startups; however I'm also open to any & all unique ideas that could make the world a better place :earth_americas:
 
-📫 How to reach me ...
-fordpickert@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ford_codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ford_codes" height="40px" width="40px" /></a>
+<a href="https://linkedin.com/in/fordpickert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fordpickert" height="40px" width="40px" /></a>
+</p>
 
-or follow my Twitter account ...
-<a href=https://twitter.com/ford_codes>@ford_codes</a>
+<p align="left"> <a href="https://twitter.com/ford_codes" target="blank"><img src="https://img.shields.io/twitter/follow/ford_codes?logo=twitter&style=for-the-badge" alt="ford_codes" /></a> </p>
 
 ### 100DaysOfCode
 
