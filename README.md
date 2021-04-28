@@ -12,7 +12,7 @@ I am a fullstack software engineer, primarily interested in blockchain & music t
 
 ### 100DaysOfCode
 
-If you'd like to check in on my progress with the #100DayOfCode challenge, please check out the pinned code-everyday repo below!
+If you'd like to check in on my progress with the #100DaysOfCode challenge, please check out the pinned code-everyday repo below!
 
 ### Projects
 
