@@ -18,6 +18,8 @@ If you'd like to check in on my progress with the #100DaysOfCode challenge, plea
 
 I have several smaller projects pinned below in varying languages that I have used as opportunities to improve my craft as I progress - please feel free to check them out & leave feedback!
 
+Additionally, my personal portfolio site displaying all of the projects & more can be found here: https://ford-personal-site.herokuapp.com/
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fordp&layout=compact&theme=onedark)](https://github.com/fordp/github-readme-stats)
 
 ### Languages and Tools:
