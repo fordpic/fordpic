@@ -1,51 +1,82 @@
-What's up guys, my name is Ford :v:
+### What's up guys, my name is Ford :v:
 
-I am a fullstack software engineer, primarily interested in blockchain & music tech startups; however I'm also open to any & all unique ideas that could make the world a better place :earth_americas:
+##### I am a fullstack developer who enjoys the creative aspect of coding and the freedom it enables to do just about anything! I love to work through and solve complex problems for the feeling of sheer bliss that washes over me after I've accomplished my goal. When I'm not coding, you can find me either producing music, attending a concert, monitoring the financial markets, or just outright hanging with friends outdoors.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ford_codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ford_codes" height="40px" width="40px" /></a>
-<a href="https://linkedin.com/in/fordpickert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fordpickert" height="40px" width="40px" /></a>
+## 🛠️ My Toolbox
+
+### 👨‍💻 Programming Languages
+
+<p>
+  <a href=""><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href=""><img alt="Rust" src="https://img.shields.io/badge/Rust-E34F26?logo=rust"></a>
+  <a href=""><img alt="Solidity" src="https://img.shields.io/badge/Solidity-007396.svg?logo=solidity&logoColor=white"></a> 
+  <a href=""><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+  <a href=""><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+  <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>   
+  <a href=""><img alt="Web Assembly" src="https://img.shields.io/badge/Web_Assembly-ffffff?logo=webassembly"></a>
+  <a href=""><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  <a href=""><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-e10098?logo=graphql"></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/ford_codes" target="blank"><img src="https://img.shields.io/twitter/follow/ford_codes?logo=twitter&style=for-the-badge" alt="ford_codes" /></a> </p>
 
-### 100DaysOfCode
+### 🧰 Frameworks & Libraries
 
-If you'd like to check in on my progress with the #100DaysOfCode challenge, please check out the pinned code-everyday repo below!
+<p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-025E8C.svg?logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-0081CB?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-4ea94b?logo=tailwindcss"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-7952B3?logo=prisma&logoColor=white"></a>
+    <a href="#"><img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-21759B?logo=apollographql&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-4ea94b?logo=pandas&logoColor=white"></a>
+</p>
 
-### Projects
+### 🗄️ Databases & Cloud Hosting
 
-I have several smaller projects pinned below in varying languages that I have used as opportunities to improve my craft as I progress - please feel free to check them out & leave feedback!
+<p>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS%20Lambda-316192.svg?logo=awslambda&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Flask" src ="https://img.shields.io/badge/Flask-43853D.svg?logo=flask&logoColor=white"></a>
+</p>
 
-Additionally, my personal portfolio site displaying all of the projects & more can be found here: https://ford-personal-site.herokuapp.com/
+### 💻 Software & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fordp&layout=compact&theme=onedark)](https://github.com/fordp/github-readme-stats)
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> 
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/Strapi-430098.svg?logo=strapi&logoColor=white"></a>
+    <a href="#"><img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-34A853.svg?logo=googleanalytics&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
 
-### Languages and Tools:
+## Projects
 
-<img align="left" alt="Javascript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Node.js" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Django" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Amplify" width="40px" height="40px" src="https://docs.amplify.aws/assets/logo-dark.svg" />
-<img align="left" alt="CSS3" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="HTML5" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Solidity" width="40px" height="40px" src="https://user-images.githubusercontent.com/77072895/114730541-9465db80-9d06-11eb-82f0-41595f3ac6e0.png" />
-<img alt="Docker" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Postman" width="40px" height="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="TailwindCSS" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<img align="left" alt="SQL" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PostgreSQL" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MySQL" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Selenium" width="40px" height="40px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
-<img align="left" alt="Heroku" width="40px" height="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+##### I have several smaller projects pinned below in varying languages that I have used as opportunities to improve my craft as I progress - please feel free to check them out & leave feedback!
+
+## What I'm Currently Learning
+
+- Rust
+- AI
+- Web Assembly
+- Solidity + Foundry
+- Algorithms & Data Structures using TypeScript
+
 <br />
-<br />
-<br />
-<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fordp&layout=compact&theme=onedark&hide=makefile,dart,objective-c,java)](https://github.com/fordp/github-readme-stats)
 
 [![fordpic's GitHub stats](https://github-readme-stats.vercel.app/api?username=fordpic&show_icons=true&theme=onedark)](https://github.com/fordpic/github-readme-stats)
-
