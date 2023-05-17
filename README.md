@@ -39,7 +39,7 @@
 ### 🗄️ Databases & Cloud Hosting
 
 <p>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS%20Lambda-316192.svg?logo=awslambda&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS%20Amplify-316192.svg?logo=awsamplify&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
