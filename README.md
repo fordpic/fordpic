@@ -1,6 +1,6 @@
 ### What's up guys, my name is Ford :v:
 
-##### I am a fullstack developer who enjoys the creative aspect of coding and the freedom it enables to do just about anything! I love to work through and solve complex problems, chasing the feeling of accomplishment. When I'm not coding, you can find me either producing music, attending a concert, monitoring the financial markets, or just outright hanging with friends outdoors.
+##### I am a fullstack developer who enjoys the creative aspect of coding and the freedom it enables to do just about anything! I love to work through and solve complex problems, chasing the feeling of accomplishment. When I'm not coding, you can find me either producing music, attending a concert, monitoring the financial markets, or just siomply hanging with friends in the great outdoors.
 
 ## 🛠️ My Toolbox
 
