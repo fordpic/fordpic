@@ -74,9 +74,3 @@
 - Web Assembly
 - Solidity + Foundry
 - Algorithms & Data Structures using TypeScript
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fordp&layout=compact&theme=onedark&hide=makefile,dart,objective-c,java)](https://github.com/fordp/github-readme-stats)
-
-[![fordpic's GitHub stats](https://github-readme-stats.vercel.app/api?username=fordpic&show_icons=true&theme=onedark)](https://github.com/fordpic/github-readme-stats)
